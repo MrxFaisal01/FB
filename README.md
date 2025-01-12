@@ -6,7 +6,7 @@ cd FB
 
 ls
 
-python ZMx-Enc.pyc
+python Mrx.py
 
 
 
