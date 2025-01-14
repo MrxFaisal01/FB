@@ -6,6 +6,6 @@ git clone https://github.com/MrxFaisal01/FB.git
 
 cd FB
 
-git pull
+ls
 
 python Mrx.py
